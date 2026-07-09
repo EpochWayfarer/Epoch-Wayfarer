@@ -393,5 +393,13 @@ Every contributor adds a piece to this exploration.
 Every contribution represents another step in understanding ourselves and the world around us.
 
 ---
+# Contact
 
+The Wayfarer welcomes communication from researchers, educators, developers, and individuals interested in contributing to the project.
+
+For collaboration, contribution inquiries, academic discussion, and project communication:
+
+Project Contact Email:
+
+yanwenhua518@proton.me
 # End of Document
