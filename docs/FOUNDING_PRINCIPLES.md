@@ -1,41 +1,73 @@
 # The Wayfarer Founding Principles
 
-## Version 0.1
+## Version 0.2
 
----
+------
 
 # 1. Purpose of This Document
 
-The Wayfarer is a long-term exploration project built around interactive worlds, human understanding, storytelling, and the connection between generations.
+The Wayfarer is a long-term interactive exploration project built around understanding humanity, time, evolution, storytelling, and the connections between generations.
 
-This document defines the foundational principles that guide the project's development, collaboration, and future evolution.
+This document defines the foundational principles that guide the project's vision, development, collaboration, and future evolution.
 
 These principles exist to ensure that as the project grows, expands, and welcomes new participants, its original purpose and core values remain respected.
 
----
+The Wayfarer is designed to evolve over time, but its fundamental principles should remain consistent.
+
+------
 
 # 2. Founding Vision
 
 The Wayfarer was created from the belief that interactive experiences can become more than entertainment.
 
-Through exploration, choices, consequences, and relationships, digital worlds can provide opportunities for people to reflect on:
+Interactive worlds can provide opportunities for people to explore:
 
 - human behavior;
 - decision-making;
 - creativity;
 - knowledge;
 - relationships;
+- civilization development;
 - and the complexity of the world around us.
 
-The project aims to create an environment where different disciplines, perspectives, and generations can connect through shared exploration.
+The project explores how individuals, societies, and civilizations develop through time.
 
----
+The goal is not simply to create a virtual world.
 
-# 3. Human-Centered Exploration
+The goal is to create an environment where people can experience, explore, and reflect on the processes that shape humanity.
+
+------
+
+# 3. Time as a Fundamental Principle
+
+Time is one of the fundamental principles of The Wayfarer.
+
+Human behavior, societies, civilizations, and the natural world cannot be understood separately from their development through time.
+
+Meaningful changes are often created through accumulation:
+
+- individual choices;
+- repeated actions;
+- social interactions;
+- environmental changes;
+- technological development;
+- and generational transmission.
+
+The Wayfarer focuses not only on outcomes.
+
+It focuses on understanding the processes that create those outcomes.
+
+History is not only a collection of events.
+
+History is the result of countless interactions unfolding through time.
+
+------
+
+# 4. Human-Centered Exploration
 
 The Wayfarer places human understanding at the center of its development.
 
-The project does not seek to define a single correct way of thinking.
+The project does not attempt to define a single correct interpretation of humanity, history, or society.
 
 Instead, it encourages:
 
@@ -43,13 +75,56 @@ Instead, it encourages:
 - open discussion;
 - diverse perspectives;
 - interdisciplinary learning;
+- empathy;
 - and continuous exploration.
 
 Different choices, viewpoints, and experiences are considered valuable parts of understanding human complexity.
 
----
+The purpose is not to judge every decision.
 
-# 4. Creative Independence
+The purpose is to understand why decisions happen and how they influence the future.
+
+------
+
+# 5. Exploration Without Predetermined Answers
+
+The Wayfarer does not aim to provide one final answer about humanity or civilization.
+
+Different individuals, cultures, and societies may develop different paths.
+
+The project creates a space where people can explore:
+
+- possibilities;
+- consequences;
+- alternative perspectives;
+- and the complexity of human choices.
+
+There are no predetermined conclusions.
+
+There are opportunities for exploration and reflection.
+
+------
+
+# 6. Founder Role and Vision Stewardship
+
+The founder's primary responsibility is to establish and maintain the original vision, philosophical direction, and overall framework of The Wayfarer.
+
+The founder's role includes:
+
+- defining the project's core concepts;
+- establishing long-term direction;
+- connecting ideas across different fields;
+- maintaining the coherence of the overall vision.
+
+The founder does not represent every specialized field required for development.
+
+Professional knowledge, technical implementation, scientific validation, and specialized research should be developed through collaboration with qualified experts and contributors.
+
+The founder's responsibility is to protect the integrity of the vision while encouraging interdisciplinary cooperation.
+
+------
+
+# 7. Creative Independence
 
 The creative direction and philosophical foundation of The Wayfarer represent the project's original vision.
 
@@ -59,9 +134,9 @@ Short-term interests, external pressure, or purely commercial objectives should 
 
 The Wayfarer welcomes collaboration while preserving its core creative identity.
 
----
+------
 
-# 5. Long-Term Stewardship
+# 8. Long-Term Stewardship
 
 The Wayfarer is designed as a long-term project.
 
@@ -74,11 +149,12 @@ Future decisions should consider:
 - long-term impact;
 - social responsibility;
 - sustainability;
-- and preservation of the project's foundational ideas.
+- preservation of foundational ideas;
+- and respect for previous contributions.
 
----
+------
 
-# 6. Collaboration and Contribution
+# 9. Collaboration and Contribution
 
 The Wayfarer welcomes contributions from individuals with different backgrounds and areas of expertise.
 
@@ -90,6 +166,7 @@ Contributions may include:
 - artistic creation;
 - world design;
 - educational ideas;
+- simulation concepts;
 - and other forms of creative participation.
 
 Every contribution is valuable when it helps advance the project's mission.
@@ -99,13 +176,34 @@ At the same time, contributors are expected to respect:
 - project guidelines;
 - intellectual property rights;
 - ethical standards;
-- and responsibilities associated with their contributions.
+- responsibilities associated with their contributions;
+- and the contributions of others.
 
----
+------
 
-# 7. Responsibility and Accountability
+# 10. Trust and Accountability
 
-Each contributor is responsible for ensuring that their own contributions are lawful and appropriate.
+Trust is one of the fundamental principles of The Wayfarer.
+
+Long-term collaboration depends on:
+
+- honesty;
+- responsibility;
+- respect for agreements;
+- acknowledgment of contributions;
+- and accountability for actions.
+
+Trust is not only a social value.
+
+It is the foundation that allows complex systems, communities, and civilizations to develop.
+
+The Wayfarer believes that credibility is built through consistent actions over time.
+
+------
+
+# 11. Responsibility and Accountability
+
+Each contributor is responsible for ensuring that their own contributions are lawful, appropriate, and authentic.
 
 Contributors should not submit:
 
@@ -116,11 +214,11 @@ Contributors should not submit:
 
 Individual contributors remain responsible for the legality and authenticity of their own submissions.
 
-The project aims to provide a collaborative environment, but participation does not remove individual responsibility.
+Participation in the project does not remove individual responsibility.
 
----
+------
 
-# 8. Commercial Development Principles
+# 12. Commercial Development Principles
 
 The Wayfarer recognizes that future development may involve:
 
@@ -134,25 +232,23 @@ Commercial opportunities may support the growth of the project.
 
 However, commercial development should remain aligned with the project's foundational mission.
 
-Financial interests should serve the long-term development of the project rather than replace its original purpose.
+Financial interests should support long-term development rather than replace the original purpose of the project.
 
----
+------
 
-# 9. Openness and Inclusiveness
+# 13. Openness and Inclusiveness
 
 The Wayfarer is open to ideas, cultures, disciplines, and perspectives from around the world.
 
-The project does not belong to a single community, region, or short-term interest group.
-
-It seeks to create a space where humanity's diverse knowledge and imagination can interact.
+The project welcomes contributions from different backgrounds and encourages respectful exchange of knowledge.
 
 Openness does not mean the absence of principles.
 
-True openness requires respect for fundamental values.
+True openness requires respect, responsibility, and understanding.
 
----
+------
 
-# 10. Preservation of Core Values
+# 14. Preservation of Core Values
 
 As The Wayfarer develops over time, future changes should preserve the following core values:
 
@@ -160,14 +256,15 @@ As The Wayfarer develops over time, future changes should preserve the following
 - understanding over judgment;
 - creativity over imitation;
 - responsibility over convenience;
-- long-term vision over short-term gain.
+- long-term vision over short-term gain;
+- cooperation over isolation.
 
 The project may evolve in form, technology, and implementation.
 
 However, its fundamental purpose should remain:
 
-Creating interactive worlds that help people explore stories, choices, connections, and human understanding across generations.
+Creating interactive worlds that help people explore time, stories, choices, connections, and human understanding across generations.
 
----
+------
 
 # End of Document
