@@ -1,402 +1,360 @@
-# The Wayfarer World Evolution Framework
+# World Evolution Framework
 
-## 世界演化框架
+## The Wayfarer Project
+
+Version: 1.1  
+Status: Dynamic Framework Document
 
 ---
 
-## 1. Document Status
+# 1. Introduction
 
-### Current Stage: Early Conceptual Design Stage
+The Wayfarer is a long-term interactive exploration project designed to simulate the evolution of Earth, life, humanity, and civilization through an interconnected dynamic world.
 
-This document describes the foundational concepts and theoretical framework of the world evolution system within **The Wayfarer** project.
+Rather than focusing only on historical events or final outcomes, The Wayfarer focuses on the processes behind evolution:
 
-The content represents:
+- How small individual choices accumulate over time.
+- How societies transform through interactions.
+- How environmental, cultural, technological, and ideological factors influence civilization.
+- How past decisions shape future possibilities.
 
-- Early-stage conceptual exploration;
-- Foundational system design ideas;
-- Long-term development direction.
-
-This document does **not** represent a completed game system.
-
-The following areas have not yet started:
-
-- Complete world simulation development;
-- Historical data construction;
-- Game system implementation;
-- Technical architecture development;
-- Professional validation process.
-
-Future development will require collaboration among:
-
-- Domain experts;
-- Researchers;
-- Game designers;
-- Software engineers;
-- Educational professionals;
-- Other interdisciplinary contributors.
+The purpose of this framework is not to recreate history as a fixed timeline, but to create a living system where players can experience, explore, and reflect on the complex processes that shape the world.
 
 ---
 
 # 2. Core Concept
 
-**The Wayfarer** aims to explore an interactive world based on the long-term evolution of Earth, life, humanity, and civilization.
+The Wayfarer is built upon a realistic Earth-scale simulation concept.
 
-The world is not designed as a static environment.
+The world is based on:
 
-Instead, it is viewed as a continuously evolving system influenced by:
+- Real geographic environments.
+- Historical development processes.
+- Human civilization evolution.
+- Social and cultural interactions.
+- Long-term environmental changes.
 
-- Natural processes;
-- Biological development;
-- Individual decisions;
-- Social interactions;
-- Institutional changes;
-- Civilization choices.
+The project aims to create a continuous evolving world where geography, history, society, and individual actions are connected through time.
 
-The Wayfarer focuses not only on historical outcomes, but also on the processes that create those outcomes.
+Players do not simply observe history.
 
-> A major event is often the result of countless small changes accumulating through time.
-
----
-
-# 3. Worldview Statement
-
-The Wayfarer does not attempt to reproduce history as a fixed sequence of events.
-
-Instead, it explores how:
-
-- Natural processes;
-- Individual choices;
-- Social interactions;
-- Trust relationships;
-- The passage of time;
-
-work together to shape the development of the world.
-
-This framework is not intended to provide absolute answers.
-
-It is an open foundation for exploration, discussion, verification, and continuous improvement through interdisciplinary collaboration.
+They experience how history emerges.
 
 ---
 
-# 4. Time Axis: The Fundamental Dimension
+# 3. The Principle of Time Dimension
 
-Time is the primary foundation of The Wayfarer world model.
+Time is the fundamental dimension of The Wayfarer.
 
-Everything exists within time.
+All evolution exists within the continuous movement of time.
+
+Time is not only a measurement system.
+
+It is the foundation that allows:
+
+- Life to emerge.
+- Individuals to develop.
+- Societies to transform.
+- Civilizations to rise and decline.
+
+All other dimensions exist upon the timeline and evolve through interaction with time.
+
+Conceptually:
+
+                     Personal Dimension
+
+                            |
+
+Environmental Dimension ---- Time Dimension ---- Civilization Dimension
+
+                            |
+
+                  Trust & Contract Dimension
+
+                            |
+
+                     Social Dimension
+
+Time always moves forward.
+
+Other dimensions develop independently while influencing each other through historical processes.
+
+---
+
+# 4. Multi-dimensional Evolution Model
+
+The evolution of the world is not controlled by a single factor.
+
+The Wayfarer uses multiple independent dimensions to represent different forces shaping reality.
+
+These dimensions include:
+
+## 4.1 Personal Dimension
+
+Individuals are the smallest units of historical change.
+
+Every person has:
+
+- Choices.
+- Beliefs.
+- Experiences.
+- Relationships.
+- Values.
+
+Small personal decisions may appear insignificant at first.
+
+However, accumulated over generations, individual actions can influence:
+
+- Communities.
+- Cities.
+- Nations.
+- Global systems.
+
+---
+
+## 4.2 Social Dimension
+
+Human interaction creates social structures.
+
+This dimension explores:
+
+- Cooperation.
+- Conflict.
+- Culture.
+- Traditions.
+- Collective behavior.
+
+Society emerges from countless individual interactions.
+
+---
+
+## 4.3 Civilization Dimension
+
+Civilization represents large-scale human development.
 
 Including:
 
-- Life;
-- Individuals;
-- Ideas;
-- Societies;
-- Civilizations.
+- Technology.
+- Economy.
+- Political structures.
+- Knowledge systems.
+- Cultural evolution.
 
-Without time, change cannot exist.
+Civilizations are not created instantly.
 
-The time axis is not simply a record of historical events.
-
-It represents the continuous process through which:
-
-- Nature changes;
-- Life evolves;
-- Individuals grow;
-- Societies transform;
-- Civilizations develop.
-
-Time carries the entire process of evolution.
+They are the result of continuous accumulation through time.
 
 ---
 
-# 5. Event Evolution Principle
+## 4.4 Environmental Dimension
 
-Many important events in reality do not appear suddenly.
+The environment provides the foundation for all life.
 
-They often begin as very small changes.
+This dimension includes:
 
-At early stages, these changes may be:
+- Climate.
+- Geography.
+- Natural resources.
+- Ecosystems.
 
-- Ignored;
-- Considered insignificant;
-- Difficult to recognize.
-
-However, through continuous accumulation over time, small factors may create large consequences.
-
-The Wayfarer aims to allow players to experience:
-
-- The origin of events;
-- The development process;
-- The interaction of different factors;
-- The long-term consequences.
-
-The focus is not only:
-
-"What happened?"
-
-but also:
-
-"How did it happen?"
+Environmental changes influence all living systems.
 
 ---
 
-# 6. Multi-dimensional Evolution Model
+## 4.5 Ideological Dimension
 
-The Wayfarer does not define world development as a simple linear hierarchy.
+Ideas influence human behavior and collective direction.
 
-Events exist within the timeline and can be examined through multiple independent dimensions.
+Including:
 
-These dimensions:
+- Belief systems.
+- Philosophies.
+- Social values.
+- Worldviews.
 
-- Develop independently;
-- Influence each other;
-- Intersect through time.
-
-The time axis is the primary axis.
-
-Other dimensions are perspectives used to understand different aspects of evolution.
+Ideas can spread between individuals and generations, becoming powerful historical forces.
 
 ---
 
-# 7. Evolution Dimensions
+## 4.6 Trust and Contract Dimension
 
-## 7.1 Personal Dimension
+Trust is a unique dimension within The Wayfarer.
 
-Focuses on:
+It represents the foundation of cooperation between individuals and societies.
 
-- Individual behavior;
-- Personal choices;
-- Individual thoughts;
-- Personal values;
-- Individual influence.
+Trust is not only a personal characteristic.
 
-Many large-scale changes may begin from the choices of individuals.
+It is a historical memory system.
 
----
+Every action creates a record.
 
-## 7.2 Social Dimension
+Individuals, organizations, and societies build their credibility through accumulated behavior over time.
 
-Focuses on:
+Trust influences:
 
-- Families;
-- Communities;
-- Organizations;
-- Social structures;
-- Collective behavior.
+- Relationships.
+- Trade.
+- Cooperation.
+- Political systems.
+- Civilization stability.
 
-Individual actions may spread through social connections and create broader influence.
+Without trust, complex societies cannot exist.
 
 ---
 
-## 7.3 National Dimension
+# 5. Interaction Between Dimensions
 
-Focuses on:
+The dimensions above are independent but interconnected.
 
-- Institutions;
-- Laws;
-- Policies;
-- National decisions;
-- Social systems.
+Historical outcomes are generated through their interactions.
 
----
+A small event may begin within one dimension but eventually influence others.
 
-## 7.4 International Dimension
+Example:
 
-Focuses on:
+An individual's decision:
 
-- International relationships;
-- Global cooperation;
-- Conflicts;
-- Trade;
-- Connections between nations.
+↓
 
----
+Affects local relationships.
 
-## 7.5 Civilization Dimension
+↓
 
-Focuses on:
+Influences community behavior.
 
-- Human knowledge;
-- Collective understanding;
-- Values;
-- Long-term civilization development.
+↓
 
----
+Changes social structures.
 
-# 8. Trust & Contract Foundation
+↓
 
-Trust and contract are not treated as ordinary dimensions.
+Creates larger historical consequences.
 
-They represent a foundational mechanism that influences all dimensions.
+The importance of an event is not determined only by its initial size.
 
-Long-term relationships cannot exist without trust.
-
-Trust exists through accumulated history.
-
-Examples:
-
-## Individual Level
-
-- Personal reputation;
-- Keeping promises;
-- Reliability.
-
-## Social Level
-
-- Social trust;
-- Cooperation;
-- Shared expectations.
-
-## Economic Level
-
-- Business reputation;
-- Contracts;
-- Commercial credibility.
-
-## National and International Level
-
-- Institutional trust;
-- Agreements;
-- International commitments.
-
-Trust is created through time:
-
-Past actions → accumulated records → present trust → future opportunities
-
-A person's, organization's, or society's choices leave long-term credibility records.
+Time and accumulated interactions determine its long-term impact.
 
 ---
 
-# 9. Player Existence Model
+# 6. Player Role
 
-The player's relationship with the world changes according to different historical stages.
+Players are not external observers controlling the world from above.
 
-The player is not limited to a single role.
+Players exist inside the system.
 
----
+Their actions become historical variables.
 
-## 9.1 Pre-Life Stage
+Player roles may evolve depending on the stage of world development:
 
-Before the emergence of life, the player cannot exist as a biological entity.
+## Early World Stages
 
-Possible exploration directions include:
+Before complex life exists:
 
-- Observer perspective;
-- Environmental exploration;
-- Limited interaction with environmental conditions.
+Players may act as observers or environmental influencers.
 
-The purpose is to explore how environmental changes may influence future possibilities.
+They may influence:
 
-Specific gameplay mechanics have not yet been designed and require future discussion with professional game designers.
+- Conditions.
+- Surrounding environments.
+- Evolutionary possibilities.
 
----
+## Human Civilization Stages
 
-## 9.2 Life Evolution Stage
+Players become active participants.
 
-After life emerges, players may explore:
+Possible roles include:
 
-- Biological evolution;
-- Ecological relationships;
-- Environmental interactions.
-
----
-
-## 9.3 Human Civilization Stage
-
-After humans appear, player roles may expand into:
-
-- Individual participant;
-- Social member;
-- Organization contributor;
+- Individual.
+- Explorer.
+- Citizen.
+- Leader.
 - Decision maker.
+- Historical participant.
 
-Player choices may create consequences that develop through time.
+The player does not control history completely.
 
----
-
-# 10. Earth-scale 3D Exploration Concept
-
-The Wayfarer aims to create a three-dimensional exploration environment based on Earth.
-
-The goal is not only to display geographical information.
-
-The goal is to create an immersive world where players can explore locations and experience changes across time.
-
-Future possibilities include:
-
-- Real-world geographic environments;
-- Three-dimensional exploration;
-- Historical transformations of locations;
-- Connection between places and human stories.
-
-Players may eventually explore:
-
-- Familiar cities;
-- Familiar streets;
-- Real-world locations.
-
-Technical implementation requires future research and development.
+The player becomes part of history.
 
 ---
 
-# 11. Interdisciplinary Validation Principle
+# 7. Process Over Result
 
-Because The Wayfarer involves multiple fields of knowledge, future development requires interdisciplinary collaboration.
+The Wayfarer emphasizes experiencing processes rather than directly viewing outcomes.
 
-Potential contributors include:
+Historical results are often caused by countless small events accumulated over time.
 
-- Scientists;
-- Historians;
-- Social researchers;
-- Legal experts;
-- Economic researchers;
-- International relations specialists;
-- Educational professionals;
-- Game designers;
-- Software engineers.
+Players should experience:
 
-The goal is to ensure:
+- The beginning of changes.
+- The growth of problems.
+- The interaction between choices.
+- The consequences of decisions.
 
-- Scientific reliability;
-- Logical consistency;
-- Educational suitability;
-- Meaningful player experience.
+The purpose is not only to see what happened.
+
+The purpose is to understand why it happened.
 
 ---
 
-# 12. Current Project Status
+# 8. Earth-scale 3D Exploration Vision
 
-## Completed Conceptual Work
+The long-term vision of The Wayfarer includes a realistic Earth-scale 3D environment.
 
-Currently established:
+Players may explore:
 
-- Core project philosophy;
-- Time axis as the fundamental dimension;
-- Multi-dimensional evolution model;
-- Trust and contract foundation concept;
-- Preliminary player existence model;
-- Earth-scale exploration concept.
+- Continents.
+- Cities.
+- Natural environments.
+- Historical locations.
 
----
+The world is not only a map.
 
-## Not Yet Started
+Locations are carriers of:
 
-The following areas remain future work:
+- Human memories.
+- Historical events.
+- Cultural development.
+- Generational stories.
 
-- Complete world simulation database;
-- Historical event modeling;
-- Game mechanics design;
-- Software development;
-- Technical implementation;
-- Professional verification.
+The goal is to create a world where players can explore both space and time.
 
 ---
 
-# 13. Long-term Vision
+# 9. No Absolute Correct Answer
 
-The Wayfarer aims to explore:
+The Wayfarer does not define a single correct path of development.
 
-> How time carries the evolution of life, individuals, societies, and civilizations, and how every choice may create consequences across generations.
+Different choices create different consequences.
+
+Different civilizations may develop different solutions.
+
+The purpose of the simulation is not to judge history.
+
+It is to provide a space for:
+
+- Exploration.
+- Understanding.
+- Reflection.
+- Learning.
+
+There are no absolute answers.
+
+There are only endless possibilities created through time.
 
 ---
 
-## End of Document
+# 10. Dynamic Framework
+
+This document represents the current understanding of The Wayfarer.
+
+It is not a fixed specification.
+
+As the project develops, new ideas, technologies, and design discoveries may modify and expand this framework.
+
+The evolution of the project itself follows the same principle as the world it attempts to simulate:
+
+Continuous change through time.
+
+---
+
+# End
