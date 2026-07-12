@@ -1,8 +1,8 @@
 # The Wayfarer Contributor Guidelines
 
-## Version 1.0
+## Version 1.1
 
----
+------
 
 # Introduction
 
@@ -14,7 +14,7 @@ Science, technology, education, law, economics, culture, creativity, and human e
 
 The Wayfarer welcomes contributors who share the project's vision and respect its founding principles.
 
----
+------
 
 # Core Principle
 
@@ -30,9 +30,36 @@ A designer may learn from psychologists.
 
 An expert in one field may become a learner in another.
 
-The Wayfarer encourages humility, curiosity, cooperation, and continuous learning.
+The Wayfarer encourages:
 
----
+- humility;
+- curiosity;
+- cooperation;
+- responsibility;
+- continuous learning.
+
+------
+
+# Contribution Through Time
+
+The Wayfarer is a long-term evolving project.
+
+Every contribution becomes part of the project's history.
+
+Ideas, discussions, research, designs, and implementations create accumulated knowledge over time.
+
+Contributors are not only helping to build the present project.
+
+They are participating in the continuous evolution of the project's future.
+
+Each contribution may influence future development through:
+
+- knowledge transfer;
+- collaboration;
+- improvement;
+- inspiration for future generations.
+
+------
 
 # What Is a Contributor?
 
@@ -51,7 +78,7 @@ Contribution is not limited to writing code.
 
 Every meaningful contribution that supports the project's mission is valuable.
 
----
+------
 
 # Contributor Categories
 
@@ -61,7 +88,7 @@ These categories are not separated.
 
 Many contributors may participate in multiple areas.
 
----
+------
 
 # 1. Academic Contributors
 
@@ -85,7 +112,7 @@ Purpose:
 
 To help ensure that project content is based on reliable knowledge.
 
----
+------
 
 # 2. Educational Contributors
 
@@ -109,7 +136,7 @@ Purpose:
 
 To transform complex knowledge into experiences that different audiences can understand.
 
----
+------
 
 # 3. Technical Contributors
 
@@ -136,7 +163,7 @@ Purpose:
 
 To transform approved concepts into functional experiences.
 
----
+------
 
 # 4. Legal Contributors
 
@@ -160,7 +187,7 @@ Purpose:
 
 To ensure that the project respects legal principles and responsibilities.
 
----
+------
 
 # 5. Business and Economics Contributors
 
@@ -182,7 +209,7 @@ Purpose:
 
 To improve understanding of how economic systems influence human society.
 
----
+------
 
 # 6. International Affairs Contributors
 
@@ -204,7 +231,7 @@ Purpose:
 
 To help explore connections between different societies and civilizations.
 
----
+------
 
 # 7. Creative Contributors
 
@@ -228,7 +255,7 @@ Purpose:
 
 To transform knowledge and ideas into meaningful experiences.
 
----
+------
 
 # 8. Community Contributors
 
@@ -251,7 +278,30 @@ Purpose:
 
 To help the project understand real human interaction and experience.
 
----
+------
+
+# 9. World System Contributors
+
+Examples:
+
+- system designers;
+- simulation researchers;
+- interdisciplinary researchers;
+- scenario architects.
+
+Possible contributions:
+
+- system modeling;
+- simulation concepts;
+- causal relationships;
+- world interaction design;
+- historical process analysis.
+
+Purpose:
+
+To transform complex real-world systems into interactive and understandable experiences.
+
+------
 
 # Contribution Process
 
@@ -268,7 +318,11 @@ Discussion
 
 ↓
 
-Review
+Evidence Review
+
+↓
+
+Expert Review
 
 ↓
 
@@ -289,7 +343,27 @@ Improvement
 
 Different contributions may require different review methods.
 
----
+------
+
+# Contribution Responsibility and Trust
+
+The Wayfarer values long-term trust.
+
+Trust is built through:
+
+- honest communication;
+- responsible contribution;
+- respect for evidence;
+- respect for others;
+- consistency over time.
+
+A contributor's reputation is created through continuous actions.
+
+Trust is not based on a single contribution.
+
+It develops through accumulated behavior.
+
+------
 
 # Contribution Principles
 
@@ -301,7 +375,7 @@ The project's core vision and fundamental principles should be preserved.
 
 Contributions should strengthen the project rather than change its original purpose.
 
----
+------
 
 ## 2. Respect Different Disciplines
 
@@ -309,7 +383,7 @@ No single discipline represents the complete truth.
 
 The Wayfarer values cooperation between different fields.
 
----
+------
 
 ## 3. Focus on Long-Term Value
 
@@ -317,7 +391,7 @@ The project prioritizes meaningful and sustainable development.
 
 Short-term popularity should not replace long-term purpose.
 
----
+------
 
 ## 4. Encourage Open Discussion
 
@@ -325,7 +399,7 @@ Different opinions are valuable.
 
 Constructive discussion helps improve ideas.
 
----
+------
 
 ## 5. Maintain Responsibility
 
@@ -336,7 +410,7 @@ Contributors should consider:
 - legal responsibility;
 - social impact.
 
----
+------
 
 # Intellectual Property and Contributions
 
@@ -353,7 +427,7 @@ These policies exist to:
 
 Specific legal agreements may evolve as the project develops.
 
----
+------
 
 # Respect for Original Vision
 
@@ -365,7 +439,7 @@ The project encourages exploration within its established principles.
 
 The purpose of collaboration is to expand understanding, not replace the original mission.
 
----
+------
 
 # Global Participation
 
@@ -380,7 +454,11 @@ Human knowledge belongs to everyone.
 
 The project hopes to create a place where people can cooperate across traditional boundaries.
 
----
+The Wayfarer does not seek to define a single final answer.
+
+It encourages continuous exploration, discussion, and understanding.
+
+------
 
 # Final Statement
 
@@ -392,7 +470,8 @@ Every contributor adds a piece to this exploration.
 
 Every contribution represents another step in understanding ourselves and the world around us.
 
----
+------
+
 # Contact
 
 The Wayfarer welcomes communication from researchers, educators, developers, and individuals interested in contributing to the project.
@@ -402,4 +481,5 @@ For collaboration, contribution inquiries, academic discussion, and project comm
 Project Contact Email:
 
 yanwenhua518@proton.me
+
 # End of Document
