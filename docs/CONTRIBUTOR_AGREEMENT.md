@@ -1,14 +1,24 @@
 # The Wayfarer Project Collaboration and Contribution Agreement
 
-## Version 1.3 Draft
+## Version 1.4 Draft
 
 **Status: Draft Version — Early Project Governance Document**
 
 This document represents the current collaboration and contribution principles of The Wayfarer project.
 
+It describes the project's intended approach toward:
+
+- founder-originated assets;
+- contributor participation;
+- contribution management;
+- intellectual property protection;
+- long-term project development.
+
+At this early stage, this document represents a governance framework and collaboration principle.
+
 As the project develops, this document may be further reviewed, improved, and updated.
 
----
+------
 
 # 1. Purpose
 
@@ -22,7 +32,8 @@ The project aims to explore a new form of interactive knowledge experience by co
 - Law and social systems;
 - Business and economic simulation;
 - International affairs;
-- Software development.
+- Software development;
+- Human cognition and behavior research.
 
 This document defines the basic principles regarding:
 
@@ -33,9 +44,36 @@ This document defines the basic principles regarding:
 
 The purpose of this agreement is to establish a transparent, respectful, and sustainable collaboration environment.
 
----
+------
 
-# 2. Project Collaboration Philosophy
+# 2. Agreement Through Time
+
+The Wayfarer is a long-term evolving project.
+
+This agreement is not only a collaboration document.
+
+It is also a record of how the project develops relationships, responsibilities, and trust over time.
+
+As the project grows:
+
+- technologies may change;
+- contributors may change;
+- collaboration methods may change;
+- governance structures may evolve.
+
+However, several principles should remain constant:
+
+- transparency;
+- respect;
+- responsibility;
+- long-term commitment;
+- preservation of the project's foundational vision.
+
+The agreement itself may evolve together with the project.
+
+------
+
+# 3. Project Collaboration Philosophy
 
 The Wayfarer believes that complex systems require knowledge and cooperation from different disciplines.
 
@@ -45,18 +83,22 @@ The project welcomes participation from:
 - Educators;
 - Developers;
 - Game designers;
-- Legal, business, and international affairs professionals;
+- Legal professionals;
+- Business and economic specialists;
+- International affairs professionals;
 - Other contributors with relevant expertise.
 
 However, open collaboration requires clear principles.
 
-Contributions are encouraged to improve and expand the project, while maintaining the project's foundational vision and identity.
+Contributions are encouraged to improve and expand the project while maintaining the project's foundational vision and identity.
 
----
+Collaboration should create accumulated value rather than replace the original purpose of the project.
 
-# 3. Founder-Originated Assets
+------
 
-## 3.1 Definition of Founder-Originated Assets
+# 4. Founder-Originated Assets
+
+## 4.1 Definition of Founder-Originated Assets
 
 The following materials are recognized as founder-originated assets:
 
@@ -76,9 +118,9 @@ Including but not limited to:
 
 These materials form the foundation of The Wayfarer project.
 
----
+------
 
-## 3.2 Ownership and Protection
+## 4.2 Ownership and Protection
 
 Founder-originated assets remain the intellectual property of the founder.
 
@@ -91,9 +133,11 @@ Without authorization, individuals or organizations may not:
 - Remove original attribution;
 - Use founder-originated core assets for commercial purposes.
 
----
+The purpose of protecting founder-originated assets is to preserve project continuity and responsibility.
 
-## 3.3 Confidential Founder Materials
+------
+
+## 4.3 Confidential Founder Materials
 
 To protect the long-term development of the project, some founder-created materials may remain private.
 
@@ -107,9 +151,9 @@ These may include:
 
 Private materials do not become public assets simply because the project is publicly discussed.
 
----
+------
 
-# 4. Founder Role and Final Decision Authority
+# 5. Founder Role and Decision Responsibility
 
 The founder's responsibilities include:
 
@@ -123,37 +167,71 @@ The Wayfarer welcomes professional expertise from different fields.
 
 The founder does not replace specialists.
 
-Experts provide professional knowledge, verification, and improvements within their fields.
+Experts provide:
 
-However, to maintain project continuity:
+- professional knowledge;
+- verification;
+- research;
+- improvements within their fields.
 
-The founder holds final decision authority regarding:
+The founder maintains responsibility for preserving the project's original vision and identity.
 
-- Fundamental project direction;
-- Core philosophy;
-- Project identity;
-- Major governance principles.
+At the same time, important decisions should consider:
 
-The purpose of this authority is to preserve the original vision while allowing meaningful collaboration.
+- project principles;
+- professional knowledge;
+- technical feasibility;
+- ethical considerations;
+- long-term consequences.
 
----
+The purpose of this responsibility is to maintain continuity while allowing meaningful collaboration.
 
-# 5. Professional Verification and Development Process
+------
+
+# 6. Professional Verification and Development Process
 
 Because The Wayfarer involves multiple knowledge fields, professional content should be developed through appropriate review and collaboration.
 
 The intended process is:
 
-1. Original concepts and creative direction proposed by the founder;
-2. Relevant specialists research, evaluate, and verify professional accuracy;
-3. Educational professionals help transform complex knowledge into understandable experiences for different age groups;
-4. Designers and developers implement validated concepts into interactive systems.
 
-The project recognizes that successful development requires cooperation between creativity, expertise, education, and technology.
+Original Concept
 
----
+↓
 
-# 6. Contributor Submissions
+Research and Analysis
+
+↓
+
+Professional Verification
+
+↓
+
+Educational Adaptation
+
+↓
+
+Interactive Design
+
+↓
+
+Technical Implementation
+
+↓
+
+Evaluation and Improvement
+
+
+The project recognizes that successful development requires cooperation between:
+
+- creativity;
+- expertise;
+- education;
+- technology.
+
+------
+
+# 7. Contributor Submissions
 
 Contributors may submit:
 
@@ -174,9 +252,9 @@ Contributors must ensure that submitted materials:
 - Do not violate third-party rights;
 - Comply with applicable laws and regulations.
 
----
+------
 
-# 7. Contributor Recognition and Attribution
+# 8. Contributor Recognition and Attribution
 
 The Wayfarer respects the contributions of all participants.
 
@@ -192,13 +270,15 @@ No participant may:
 - Misrepresent another person's work;
 - Claim another contributor's work as their own.
 
----
+Contribution history is considered part of the project's accumulated knowledge.
 
-# 8. Contribution License Grant
+------
 
-By submitting contributions to The Wayfarer, contributors agree to grant the project a long-term license to use those contributions.
+# 9. Contribution License Grant
 
-This license includes the ability to:
+By submitting contributions to The Wayfarer, contributors agree that the project may use those contributions for long-term development purposes.
+
+This includes the ability to:
 
 - Use;
 - Modify;
@@ -212,23 +292,49 @@ This principle exists to ensure that The Wayfarer can continue developing over t
 
 It prevents the project from becoming unable to operate because individual contributors are unavailable in the future.
 
----
+At the current early development stage, this represents the project's intended collaboration direction.
 
-# 9. Contributor Rights
+More formal legal agreements may be introduced when the project reaches a stage requiring them.
+
+------
+
+# 10. Contributor Rights
 
 Contributors retain recognition of their original contributions.
 
 The Wayfarer does not deny contributors' creative or professional contributions.
 
-The project aims to establish a cooperative relationship based on:
+The project aims to establish cooperation based on:
 
 - Founder vision;
 - Professional expertise;
 - Community contributions.
 
----
+The goal is a balanced relationship between ownership, contribution, and collaboration.
 
-# 10. Future Commercial Development
+------
+
+# 11. Contributor Trust and Reputation
+
+The Wayfarer values long-term trust.
+
+Trust is built through:
+
+- honest communication;
+- responsible contribution;
+- respect for evidence;
+- respect for others;
+- consistency over time.
+
+A contributor's reputation is created through continuous actions.
+
+Trust is not determined by a single contribution.
+
+It develops through accumulated behavior and contribution history.
+
+------
+
+# 12. Future Commercial Development
 
 The Wayfarer may potentially develop into:
 
@@ -240,17 +346,20 @@ The Wayfarer may potentially develop into:
 
 If the project enters commercial development in the future:
 
-The founder will make decisions according to the project's development needs and governance principles.
+The founder will make decisions according to:
 
-Because contributors agree to the contribution license principles when submitting their work:
+- project principles;
+- development requirements;
+- governance framework;
+- applicable laws.
 
-Future commercialization does not require obtaining separate authorization from every historical contributor.
+Because contributors agree to contribution principles when submitting their work, long-term project continuity must be considered.
 
-This principle exists to ensure long-term stability and continuity.
+Specific commercial arrangements may evolve according to future circumstances.
 
----
+------
 
-# 11. Contributor Value Recognition
+# 13. Contributor Value Recognition
 
 The Wayfarer respects valuable contributions.
 
@@ -270,9 +379,9 @@ Specific arrangements will depend on:
 
 No fixed compensation percentage is defined at this early stage.
 
----
+------
 
-# 12. Unauthorized Commercial Use
+# 14. Unauthorized Commercial Use
 
 Without authorization, individuals or organizations may not:
 
@@ -288,9 +397,31 @@ Non-commercial activities such as:
 
 are encouraged.
 
----
+------
 
-# 13. Long-Term Project Governance
+# 15. Exploration and Openness
+
+The Wayfarer welcomes:
+
+- discussion;
+- criticism;
+- improvement;
+- new ideas.
+
+Protecting the founding vision does not mean limiting exploration.
+
+The purpose of preserving the foundation is to allow exploration to continue.
+
+The Wayfarer believes that understanding emerges through:
+
+- continuous learning;
+- dialogue;
+- cooperation;
+- responsible experimentation.
+
+------
+
+# 16. Long-Term Project Governance
 
 The Wayfarer may continue expanding as new knowledge, technologies, and disciplines are introduced.
 
@@ -300,9 +431,9 @@ However, expansion should not remove the project's foundational purpose and iden
 
 The project welcomes new ideas while maintaining continuity of its original vision.
 
----
+------
 
-# 14. Future Legal Development
+# 17. Future Legal Development
 
 As The Wayfarer develops, this document may evolve into more formal agreements, including:
 
@@ -313,14 +444,14 @@ As The Wayfarer develops, this document may evolve into more formal agreements, 
 
 Future updates should remain transparent and publicly available.
 
----
+------
 
-# 15. Contact Information
+# 18. Contact Information
 
 Project Contact:
 
 yanwenhua518@proton.me
 
----
+------
 
 # End of Document
