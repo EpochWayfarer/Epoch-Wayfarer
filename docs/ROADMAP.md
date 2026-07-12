@@ -1,101 +1,129 @@
 # The Wayfarer Project Roadmap
 
-## Version 0.3
+## Version 0.4
 
----
+**Status: Early Exploration and Foundation Development Stage**
+
+------
 
 # 1. Project Positioning
 
-The Wayfarer is an open project currently in an early exploration stage.
+The Wayfarer is an open exploration project currently in an early conceptual development stage.
 
-The project explores the possible connections between:
+The project explores possible connections between:
 
 - Games;
 - Education;
 - Knowledge systems;
 - Human cognition;
-- Interdisciplinary simulation.
+- Interdisciplinary simulation;
+- Real-world systems.
 
-The Wayfarer explores a question:
+The Wayfarer explores a fundamental question:
 
-> Can games become a medium that helps people understand complex systems, knowledge connections, and the world around them?
+> Can interactive experiences become a medium that helps people understand complex systems, knowledge connections, and the world around them?
 
-Currently, The Wayfarer is in the stage of:
+Currently, The Wayfarer is focused on:
 
-**Concept exploration, idea organization, and foundational direction exploration.**
+- Concept exploration;
+- Idea organization;
+- Foundational framework development;
+- Documentation construction;
+- Future collaboration exploration.
 
-The current focus is:
+The project has not entered formal game production at this stage.
 
-- Recording initial ideas;
-- Organizing possible development directions;
-- Exploring future collaboration models;
-- Establishing basic project documentation.
+------
 
-The project has not entered formal game development at this stage.
+# 2. Roadmap Philosophy
 
----
+The Wayfarer does not view a roadmap as a fixed schedule or a guarantee of specific outcomes.
 
-# 2. Current Project Progress
+Instead, the roadmap represents:
+
+- Current understanding;
+- Possible development directions;
+- Accumulated experience;
+- Future exploration paths.
+
+Because The Wayfarer is a long-term exploration project, future development may change according to:
+
+- New knowledge;
+- Professional feedback;
+- Technical progress;
+- Practical experience;
+- Community participation.
+
+A roadmap is a guide for exploration.
+
+It is not a limitation on future possibilities.
+
+The purpose of a roadmap is to help the project move forward while remaining open to learning and improvement.
+
+------
+
+# 3. Current Project Progress
 
 To maintain transparency, this section only describes work that currently exists or is being explored.
 
----
+------
 
-## 2.1 Exploration of Project Philosophy
+# 3.1 Exploration of Project Philosophy
 
 The project is currently exploring questions such as:
 
 - How do humans understand a complex world?
-- How can knowledge from different disciplines connect with each other?
-- Can games help players understand real-world cause and effect?
-- How can the same problem be understood by players of different ages?
-- How can interactive experiences improve understanding and awareness?
+- How can knowledge from different disciplines connect?
+- Can games help people understand real-world cause and effect?
+- How can different generations understand the same concepts?
+- How can interactive experiences improve human understanding?
 
-These ideas are still under continuous exploration and refinement.
+These ideas remain under continuous exploration and refinement.
 
 As the project develops through:
 
 - Research;
 - Professional participation;
-- Practical verification;
+- Practical validation;
 
 the project philosophy may continue to evolve.
 
----
+------
 
-## 2.2 Initial Documentation Work
+# 3.2 Initial Documentation Development
 
-The project has started organizing basic documentation, including:
+The project has started organizing foundational documentation, including:
 
 - Project introduction;
-- Design philosophy;
 - Founding principles;
-- Governance concepts;
-- Knowledge framework exploration;
-- Development workflow ideas;
-- Contributor participation methods.
+- Design philosophy;
+- Knowledge framework;
+- Timeline framework;
+- Development workflow;
+- Collaboration principles;
+- Governance concepts.
 
 These documents exist to:
 
-- Record the project's exploration process;
-- Preserve design thoughts;
-- Provide a foundation for future discussion.
+- Record the exploration process;
+- Preserve design thinking;
+- Provide a foundation for future collaboration.
 
-They are not considered final versions.
+They are living documents.
 
-They will continue to evolve as the project develops.
+They are not considered final answers.
 
----
+------
 
-## 2.3 Conceptual Case Exploration
+# 3.3 Conceptual Scenario Exploration
 
-The project has explored some early text-based conceptual cases.
+The project has explored early text-based conceptual scenarios.
 
-For example:
+Example:
 
-A food safety-related scenario exploration.
+A food safety system exploration.
 
-This type of exploration examines how a real-world issue may involve:
+This type of scenario examines how a real-world issue may involve:
 
 - Science;
 - Technology;
@@ -105,47 +133,72 @@ This type of exploration examines how a real-world issue may involve:
 - Social impact;
 - Human decision-making.
 
-These cases are currently:
+These scenarios currently represent:
 
 > Concept exploration and thought validation.
 
 They are not completed game content.
 
----
+------
 
-# 3. Work That Has Not Started Yet
+# 4. Reality-Based Simulation Principle
+
+The Wayfarer aims to create interactive experiences inspired by real-world systems.
+
+Simulation should be based on:
+
+- Observation;
+- Research;
+- Evidence;
+- Professional understanding.
+
+The purpose of simulation is not to perfectly reproduce every detail of reality.
+
+The purpose is to help players explore:
+
+- Relationships;
+- Causes;
+- Consequences;
+- Different possibilities.
+
+A simulation is a tool for understanding.
+
+It is not a replacement for reality.
+
+------
+
+# 5. Work That Has Not Started Yet
 
 To maintain accurate project records, the following areas have not officially entered the implementation stage.
 
----
+------
 
-# 3.1 Game Design and Content Development (Not Started)
+# 5.1 Game Design and Content Development
 
 The following areas have not started:
 
-- Overall game framework design;
-- Game world-building;
-- Main storyline design;
+- Complete game framework design;
+- Full world-building;
+- Main storyline development;
 - Character systems;
 - Quest systems;
-- Game rules;
 - Player progression systems;
-- Interactive mechanics.
+- Complete interactive mechanics.
 
 Currently, there is no:
 
 - Complete game version;
-- Playable game demo;
-- Complete story system;
-- Mature game system.
+- Playable final demo;
+- Complete narrative system;
+- Mature game framework.
 
----
+------
 
-# 3.2 Founder Role and Collaboration Principles
+# 5.2 Founder Role and Collaboration Principles
 
 The Wayfarer is a highly complex interdisciplinary project.
 
-It involves areas including:
+It involves fields including:
 
 - Game design;
 - Education;
@@ -154,11 +207,11 @@ It involves areas including:
 - Business;
 - International affairs;
 - Software development;
-- Other professional fields.
+- Other professional disciplines.
 
 No individual can independently master all knowledge required for such a project.
 
-Therefore, the role of the founder is not:
+The founder's role is not:
 
 > To become an expert in every field.
 
@@ -166,32 +219,32 @@ The founder's role is:
 
 > To propose exploration directions, build the overall framework, connect different fields of knowledge, and protect the project's core principles.
 
----
+------
 
-## Responsibilities of the Founder
+## Founder Responsibilities
 
 The founder's responsibilities include:
 
 - Proposing the original vision;
-- Defining the overall exploration direction;
-- Building the core problem framework;
-- Designing the general world-building direction;
-- Identifying questions the project hopes to explore;
-- Maintaining the project's long-term values and direction.
+- Defining exploration directions;
+- Building the core question framework;
+- Establishing world-building concepts;
+- Connecting different knowledge areas;
+- Maintaining long-term project values.
 
----
+------
 
 At the same time, the founder recognizes:
 
-The founder does not possess all professional knowledge required to complete this project.
+Professional knowledge requires professional participation.
 
-Therefore, The Wayfarer requires collaboration among:
+The Wayfarer depends on collaboration among:
 
-- Researchers from different fields;
+- Researchers;
 - Educational professionals;
 - Game designers;
 - Software developers;
-- Global contributors.
+- Contributors from different fields.
 
 The founder's contribution is not to replace specialists.
 
@@ -199,149 +252,86 @@ It is to:
 
 > Propose questions, connect ideas, and create a platform for collaborative exploration.
 
----
+------
 
-# 3.3 Content Creation and Validation Workflow (Future Development)
+# 6. Content Creation and Validation Workflow
 
-The Wayfarer will not begin with programming.
+The Wayfarer does not begin with programming.
 
 Content involving real-world knowledge should follow a structured process.
 
----
+Founder Defines Exploration Direction
 
-## Stage 1: Founder Defines Exploration Direction
+↓
 
-The founder proposes:
+Research and Discussion
 
-- Core themes;
-- Exploration questions;
-- Story directions;
-- World-building concepts;
-- Problems players may explore.
+↓
 
-Example:
+Professional Review
 
-A food safety simulation scenario.
+↓
 
-The founder may propose:
+Reality Verification
 
-"How can players understand the relationship between food safety and the larger social system?"
+↓
 
----
+Educational Transformation
 
-## Stage 2: Professional Research and Discussion
+↓
 
-Relevant professionals participate according to the topic.
+Game Design
 
-Possible fields include:
+↓
 
-- Scientific researchers;
-- Medical professionals;
-- Legal experts;
-- Business researchers;
-- International affairs researchers;
-- Environmental experts;
-- Social science researchers.
+Technical Implementation
 
-Professionals provide:
+↓
 
-- Knowledge;
-- Analysis;
-- Reality-based perspectives.
+Testing and Improvement
 
----
 
-## Stage 3: Expert Review and Reality Verification
+------
 
-Professional content requires validation.
+# 7. Prototype Development Philosophy
 
-Verification includes:
+Early prototypes should focus on:
 
-- Factual accuracy;
-- Professional reliability;
-- Logical consistency;
-- Real-world relationships.
+- Testing ideas;
+- Exploring interaction methods;
+- Validating concepts;
+- Understanding player responses.
 
-The goal is to ensure:
+A prototype does not need to represent the final vision.
 
-Game simulations are based on reliable knowledge.
+Its purpose is to discover:
 
----
+- What works;
+- What does not;
+- What requires improvement.
 
-## Stage 4: Educational Transformation
+Small experiments can provide valuable knowledge for future development.
 
-After professional verification, educational professionals help transform knowledge into content understandable by different age groups.
+------
 
-Different players may require different approaches:
-
-Children may need:
-
-- Simple language;
-- Clear examples;
-- Basic concepts.
-
-Adult players may explore:
-
-- More complex systems;
-- Social impacts;
-- Economic relationships;
-- Legal and international connections.
-
-Educational professionals help transform complex knowledge into accessible experiences.
-
----
-
-## Stage 5: Game Design
-
-Game designers transform validated content into:
-
-- Stories;
-- Scenarios;
-- Missions;
-- Player choices;
-- Feedback systems.
-
-The goal is not simply to deliver information.
-
-The goal is to allow players to understand complex issues through:
-
-- Choices;
-- Actions;
-- Consequences;
-- Reflection.
-
----
-
-## Stage 6: Technical Implementation
-
-Developers implement the designed systems into:
-
-- Game systems;
-- Data structures;
-- Interactive mechanisms;
-- Simulation systems.
-
-Programming should be based on:
-
-Validated knowledge and completed design concepts.
-
----
-
-# 4. Future Development Phases
+# 8. Future Development Phases
 
 The following phases represent possible future directions.
 
 No fixed timeline is currently defined.
 
-Development will depend on actual progress and available resources.
+Development will depend on:
 
----
+- Actual progress;
+- Available resources;
+- Technical conditions;
+- Professional participation.
 
-# Phase 0: Concept Exploration and Foundation Organization (Current)
+------
 
-Status:
+# Phase 0: Concept Exploration and Foundation Organization
 
-Ongoing.
+**Status: Ongoing**
 
 Goal:
 
@@ -350,80 +340,81 @@ Establish the foundation of the project.
 Focus:
 
 - Organizing ideas;
-- Recording design principles;
-- Building public documentation;
+- Recording principles;
+- Building documentation;
 - Exploring future workflows.
 
----
+------
 
 # Phase 1: Concept Validation
 
 Goal:
 
-Test whether core ideas can become interactive experiences.
+Test whether core ideas can become meaningful interactive experiences.
 
 Possible directions:
 
-- Text-based demos;
+- Text-based prototypes;
 - Small-scale simulations;
-- Basic decision systems.
+- Decision-based systems.
 
-The purpose is:
+Purpose:
 
-To validate concepts, not to immediately create a complete game.
+To validate concepts rather than immediately create a complete game.
 
----
+------
 
 # Phase 2: Prototype Exploration
 
 Goal:
 
-Explore the possibility of creating an initial playable experience.
+Explore the possibility of creating initial interactive experiences.
 
 Possible areas:
 
-- Basic game framework;
-- Simple interaction systems;
-- Data recording mechanisms.
+- Basic interaction systems;
+- Data structures;
+- Simulation concepts;
+- Player feedback systems.
 
----
+------
 
 # Phase 3: Professional Collaboration
 
 Goal:
 
-Develop interdisciplinary collaboration methods.
+Develop interdisciplinary cooperation methods.
 
 Possible participants:
 
 - Researchers;
-- Educational professionals;
+- Educators;
 - Designers;
 - Developers;
-- Industry experts.
+- Industry specialists.
 
----
+------
 
 # Phase 4: Open Contribution
 
 Goal:
 
-Create an open collaboration environment.
+Create a sustainable collaboration environment.
 
 Including:
 
 - Code contributions;
-- Content contributions;
-- Academic discussion;
+- Knowledge contributions;
+- Creative contributions;
 - Community participation.
 
----
+------
 
 # Phase 5: Long-Term Development and Legacy
 
 Goal:
 
-Explore the possibility of long-term sustainability.
+Explore long-term sustainability.
 
 Possible directions:
 
@@ -432,26 +423,26 @@ Possible directions:
 - International collaboration;
 - Long-term maintenance.
 
----
+------
 
-# 5. Core Project Principles
+# 9. Core Project Principles
 
-## 5.1 Transparency Principle
+## 9.1 Transparency Principle
 
-The project will clearly distinguish between:
+The project clearly distinguishes between:
 
 - Completed work;
 - Current exploration;
 - Future plans;
 - Long-term vision.
 
-Future goals will not be presented as current achievements.
+Future goals should not be presented as current achievements.
 
----
+------
 
-## 5.2 Validation Before Implementation
+## 9.2 Validation Before Implementation
 
-Content involving the real world should follow:
+Real-world content should follow:
 
 Research;
 
@@ -463,25 +454,46 @@ Game design;
 
 Technical implementation.
 
----
+------
 
-## 5.3 Open Collaboration Principle
+## 9.3 Open Collaboration Principle
 
-The Wayfarer recognizes:
-
-Complex problems require cooperation among different fields.
+Complex systems require cooperation among different fields.
 
 No individual possesses all answers.
 
 The project depends on:
 
 - Knowledge exchange;
-- Diverse experiences;
+- Diverse perspectives;
 - Continuous learning.
 
----
+------
 
-# 6. Closing Statement
+# 10. Open Exploration Principle
+
+The Wayfarer does not aim to provide only one interpretation of the world.
+
+Instead, it encourages players to explore:
+
+- Different perspectives;
+- Different choices;
+- Different consequences;
+- Different possible futures.
+
+The purpose of exploration is understanding complexity.
+
+The project values:
+
+- Curiosity;
+- Discovery;
+- Reflection;
+
+over simple conclusions.
+
+------
+
+# 11. Closing Statement
 
 The Wayfarer is currently an early exploration project.
 
@@ -493,6 +505,7 @@ It is a long-term exploration of the relationship between:
 - Knowledge;
 - Education;
 - Human cognition;
+- Civilization;
 - The transmission of human experience.
 
 Future development requires:
@@ -509,6 +522,6 @@ The Wayfarer will continue to follow:
 - Continuous learning;
 - Long-term exploration.
 
----
+------
 
 # End of Document
