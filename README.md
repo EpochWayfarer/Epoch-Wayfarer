@@ -4,161 +4,206 @@
 
 ---
 
-## 🌍 Vision
+# 🌍 Vision
 
-The Wayfarer is a long-term interactive exploration project focused on creating meaningful digital experiences where people can explore stories, choices, relationships, and the connections between generations.
+The Wayfarer is a long-term interactive exploration project exploring human understanding, choices, evolution, and connections between generations.
 
-Rather than simply building a game, The Wayfarer explores how interactive worlds can help us better understand ourselves, each other, and the experiences that shape our lives.
+Rather than simply creating a traditional game, The Wayfarer explores how interactive worlds can help people experience the processes that shape individuals, societies, civilizations, and the world around us.
+
+The project combines:
+
+- Interactive storytelling
+- Simulation systems
+- Knowledge frameworks
+- World exploration
+- Human experience modeling
+
+to explore one fundamental question:
+
+**How do our choices shape the world we live in?**
 
 ---
 
-# 🧭 Why The Wayfarer Exists
+# 🌎 A Living 3D Earth Exploration Concept
 
-Throughout history, humanity has explored the world around us.
+The Wayfarer explores the possibility of creating a large-scale 3D interactive representation of Earth.
 
-We have crossed oceans.
+The goal is to allow players to explore a world inspired by the real planet, including:
 
-We have built civilizations.
+- Natural environments
+- Human settlements
+- Cultural development
+- Historical changes
+- Social systems
 
-We have created extraordinary technologies.
+Players may experience the world through exploration:
 
-Yet one of our greatest challenges remains:
+- Walking
+- Traveling
+- Riding
+- Driving
+- Flying
 
-**Understanding ourselves and one another.**
+The world is designed as a place of discovery rather than a simple game map.
 
-Why do people make different choices?
+The purpose is not only to observe the world,
 
-How do experiences shape who we become?
+but to experience how environments, societies, and civilizations develop over time.
 
-How do stories connect generations?
+---
 
-Can interactive worlds help us better understand humanity?
+# ⏳ Time, Evolution, and Human Experience
 
-The Wayfarer exists to explore these questions.
+Time is one of the fundamental dimensions of The Wayfarer.
 
-Not by providing simple answers,
+The world does not exist as a static stage.
 
-but by creating meaningful experiences.
+It evolves.
+
+Events are not created only by single moments.
+
+They emerge through:
+
+- Individual decisions
+- Social interactions
+- Environmental changes
+- Cultural development
+- Historical accumulation
+
+Small choices may gradually influence larger systems.
+
+The Wayfarer focuses on experiencing these processes.
+
+The journey is not only about seeing the result.
+
+The journey is about understanding how the result was created.
+
+---
+
+# 🧭 A World of Multiple Perspectives
+
+The Wayfarer does not define a single correct path.
+
+Human history is complex.
+
+Different individuals, cultures, and societies may make different choices based on their own experiences, knowledge, and circumstances.
+
+The project encourages:
+
+- Exploration
+- Understanding
+- Reflection
+- Empathy
+
+Players are not simply searching for a final answer.
+
+They are exploring possibilities.
+
+---
+
+# 🎮 Player Experience
+
+The role of the player may evolve throughout different stages of the experience.
+
+Depending on the context, players may become:
+
+## Observer
+
+In early stages of world development, players may observe natural processes and environmental changes.
+
+## Participant
+
+As life and societies emerge, players may experience the world as individuals within a larger system.
+
+## Decision Maker
+
+Players may eventually influence events through choices, relationships, and actions.
+
+Every decision becomes part of the world's memory.
 
 ---
 
 # 🌱 Core Philosophy
 
-The Wayfarer believes that meaningful experiences can inspire curiosity, reflection, empathy, and understanding.
+The Wayfarer believes that meaningful interactive experiences should encourage people to think, explore, and understand.
 
-A great interactive world should do more than entertain.
+A great interactive world should not only provide entertainment.
 
-It should encourage people to think.
+It should inspire:
 
-To explore.
-
-To question.
-
-To connect.
-
-To grow.
+- Curiosity
+- Reflection
+- Learning
+- Connection
+- Growth
 
 ---
 
-# 🔑 Foundational Pillars
+# 🔑 Foundational Principles
 
 ## Curiosity
 
-Every journey begins with curiosity.
+Questions are the beginning of exploration.
 
-Questions are often more valuable than immediate answers.
-
----
-
-## Human Cognition
-
-We explore how people think, learn, choose, remember, and understand the world around them.
+The Wayfarer values discovery over predetermined conclusions.
 
 ---
 
-## Connection
+## Human Understanding
 
-People grow through meaningful connections with others.
+The project explores how people:
 
-Stories become more valuable when they are shared.
+- Think
+- Learn
+- Remember
+- Choose
+- Influence each other
 
 ---
 
-## Reflection
+## Cause and Consequence
 
-Choices matter.
+Actions create consequences.
 
-Actions leave memories.
+Consequences create experiences.
 
-Reflection helps transform experiences into understanding.
+Experiences shape future choices.
 
 ---
 
 ## Interdisciplinary Exploration
 
-Understanding humanity requires many perspectives.
+Understanding humanity requires cooperation between many fields.
 
-The Wayfarer welcomes ideas inspired by:
+The Wayfarer welcomes perspectives from:
 
 - Game Design
-- Psychology
 - History
+- Psychology
 - Sociology
 - Philosophy
 - Artificial Intelligence
 - Education
 - Other related disciplines
 
----
-
-## Open Collaboration
-
-Creativity grows through respectful collaboration.
-
-Different cultures, skills, experiences, and perspectives are welcomed.
+Specialized knowledge should be evaluated and improved through collaboration with relevant experts.
 
 ---
 
-## Creative Integrity
+# 🏛️ Project Philosophy and Development Approach
 
-The project values preserving its original vision while embracing meaningful collaboration.
+The Wayfarer is built around a long-term collaborative vision.
 
-New ideas should strengthen the project without losing the principles that define it.
+The founder's role is to:
 
----
+- Establish the core vision
+- Define the overall direction
+- Connect ideas across different fields
+- Propose concepts and frameworks
 
-## Long-term Stewardship
+Professional knowledge and implementation details should be developed and validated through collaboration with specialists.
 
-The Wayfarer is built with a long-term perspective.
-
-The goal is not simply to release a product,
-
-but to build something that can continue growing responsibly for many years to come.
-
----
-
-## Intergenerational Understanding
-
-Some stories stay with us for a lifetime.
-
-Some stories continue into the next generation.
-
-The Wayfarer imagines a future where parents can one day share the worlds they once explored with their children, creating new memories while discovering new perspectives together.
-
----
-
-# 🎮 A Different Kind of Interactive Experience
-
-The Wayfarer explores a world where:
-
-- Choices have meaning.
-- Actions leave memories.
-- Experiences shape future journeys.
-- Stories become part of a living world.
-
-The objective is not simply to create victory.
-
-The objective is to create understanding.
+The project recognizes that creating such a large-scale experience requires contributions from many areas of expertise.
 
 ---
 
@@ -168,11 +213,14 @@ The Wayfarer is currently in the early concept and prototype stage.
 
 Current priorities include:
 
-- Building the project's philosophical foundation
-- Designing core gameplay concepts
-- Exploring interactive storytelling
-- Developing prototype systems
-- Establishing long-term project governance
+- Establishing foundational concepts
+- Developing world frameworks
+- Exploring gameplay possibilities
+- Designing simulation ideas
+- Building documentation
+- Creating early prototypes
+
+Many concepts are expected to evolve through discussion, research, experimentation, and collaboration.
 
 ---
 
@@ -181,36 +229,45 @@ Current priorities include:
 The Wayfarer welcomes people interested in:
 
 - Game Development
+- Interactive Design
 - Storytelling
 - Artificial Intelligence
 - Human Behavior
-- Interactive Design
 - World Building
+- Simulation Systems
 - Creative Research
 
-At this stage, we are looking for people who share the project's long-term vision and values.
+The project values respectful collaboration and diverse perspectives.
+
+New ideas are encouraged when they strengthen the project's long-term vision.
 
 ---
 
 # 📚 Documentation
 
-Project documentation will gradually include:
+Project documentation will continue to evolve and may include:
 
-- Vision
-- Founding Principles
+- Foundational Principles
+- Design Philosophy
+- World Evolution Framework
+- Timeline Framework
+- Knowledge Systems
+- Development Workflow
 - Governance
-- Roadmap
 - Contribution Guidelines
-- Technical Documentation
+
+All documents are living documents and may be improved as the project develops.
 
 ---
 
 # 🌱 The Journey Continues
 
-Every choice leaves a story.
+Every choice creates a story.
 
-Every story creates a connection.
+Every story becomes part of a larger journey.
 
-Every connection helps us better understand one another.
+Every generation leaves something for the next.
+
+The Wayfarer is an exploration of humanity, time, and the endless possibilities created through understanding.
 
 The journey continues.
