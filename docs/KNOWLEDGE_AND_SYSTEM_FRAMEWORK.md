@@ -1,26 +1,53 @@
 # The Wayfarer Knowledge and System Framework
 
-## Version 0.2
+## Version 0.3
 
----
+------
 
 # 1. Purpose
 
 The Wayfarer explores human knowledge and real-world systems through interactive experiences.
 
-The project does not aim to simply collect information or reproduce textbooks.
+The project does not aim to simply collect information or reproduce traditional educational materials.
 
-Instead, The Wayfarer focuses on understanding how different areas of human knowledge connect, interact, and influence each other.
+Instead, The Wayfarer focuses on understanding how different areas of human knowledge connect, interact, and influence each other through time.
 
 The Wayfarer views human civilization as an interconnected system.
 
 Knowledge, technology, society, culture, law, education, and human cognition are not isolated elements.
 
-They continuously influence each other.
+They continuously influence each other and evolve through historical processes.
 
----
+The purpose of this framework is to define how knowledge becomes part of an interactive world.
 
-# 2. Core Concept: Knowledge Connection
+------
+
+# 2. Time-Based Knowledge Evolution
+
+Knowledge does not exist separately from time.
+
+Human understanding develops through:
+
+- discovery;
+- experimentation;
+- mistakes;
+- adaptation;
+- communication;
+- and generational transmission.
+
+The Wayfarer explores how knowledge evolves throughout history.
+
+Scientific discoveries, technologies, social systems, and cultural ideas influence each other across different periods.
+
+Knowledge is not only something humanity possesses.
+
+Knowledge is something humanity continuously creates, transforms, and passes between generations.
+
+Time is the foundation that connects all knowledge systems.
+
+------
+
+# 3. Core Concept: Knowledge Connection
 
 Human knowledge has traditionally been divided into different academic disciplines.
 
@@ -45,9 +72,9 @@ The purpose is not simply to provide answers.
 
 The purpose is to encourage deeper understanding of how the world works.
 
----
+------
 
-# 3. Knowledge Domains
+# 4. Knowledge Domains
 
 The Wayfarer welcomes contributions from all fields of human knowledge.
 
@@ -55,26 +82,49 @@ The following domains represent major areas of exploration.
 
 These domains are connected rather than isolated.
 
----
+------
 
-# 3.1 Natural Sciences
+# 4.1 Natural Sciences
 
 Includes:
 
 - Physics;
 - Chemistry;
-- Biology;
 - Earth Sciences;
 - Environmental Sciences;
 - Astronomy.
 
 Purpose:
 
-To understand the natural laws and processes that shape the world.
+To understand the natural laws and processes that shape the universe and Earth.
 
----
+------
 
-# 3.2 Engineering and Technology
+# 4.2 Life and Evolution Sciences
+
+Includes:
+
+- Biology;
+- Evolutionary Biology;
+- Ecology;
+- Genetics;
+- Microbiology;
+- Environmental Systems.
+
+Purpose:
+
+To understand the origin, development, and interaction of life on Earth.
+
+Life evolution provides the foundation for understanding:
+
+- ecosystems;
+- species relationships;
+- human emergence;
+- and civilization development.
+
+------
+
+# 4.3 Engineering and Technology
 
 Includes:
 
@@ -90,9 +140,9 @@ Purpose:
 
 To transform knowledge into tools, systems, and interactive experiences.
 
----
+------
 
-# 3.3 Cognitive Sciences
+# 4.4 Cognitive Sciences
 
 Includes:
 
@@ -106,9 +156,9 @@ Purpose:
 
 To explore how humans perceive, learn, make decisions, and understand the world.
 
----
+------
 
-# 3.4 Education Sciences
+# 4.5 Education Sciences
 
 Includes:
 
@@ -123,11 +173,11 @@ Purpose:
 
 To transform complex knowledge into experiences suitable for different ages and backgrounds.
 
-Education specialists play an important role in ensuring that knowledge can be understood by different groups of players.
+Education specialists help ensure that knowledge can be understood by different groups of players.
 
----
+------
 
-# 3.5 Humanities and Philosophy
+# 4.6 Humanities and Philosophy
 
 Includes:
 
@@ -139,11 +189,17 @@ Includes:
 
 Purpose:
 
-To explore human meaning, values, civilization, identity, and cultural development.
+To explore:
 
----
+- human meaning;
+- values;
+- civilization;
+- identity;
+- and cultural development.
 
-# 3.6 Social Sciences
+------
+
+# 4.7 Social Sciences
 
 Includes:
 
@@ -157,9 +213,9 @@ Purpose:
 
 To understand human communities, relationships, and collective behavior.
 
----
+------
 
-# 3.7 Law and Legal Sciences
+# 4.8 Law and Legal Sciences
 
 Includes:
 
@@ -176,7 +232,7 @@ Purpose:
 
 To understand rights, responsibilities, rules, and social order.
 
-Because The Wayfarer explores human choices and consequences, legal knowledge is an essential part of the system.
+Because The Wayfarer explores human choices and consequences, legal systems are an essential part of realistic simulation.
 
 A realistic interactive world must consider:
 
@@ -185,9 +241,9 @@ A realistic interactive world must consider:
 - consequences;
 - social rules.
 
----
+------
 
-# 3.8 Economics and Business
+# 4.9 Economics and Business
 
 Includes:
 
@@ -202,11 +258,11 @@ Purpose:
 
 To understand how resources, organizations, and economic decisions influence individuals and societies.
 
-Commercial knowledge supports sustainable development while respecting the foundational mission of The Wayfarer.
+Commercial knowledge may support sustainable development while respecting the foundational mission of The Wayfarer.
 
----
+------
 
-# 3.9 International Relations and Global Affairs
+# 4.10 International Relations and Global Affairs
 
 Includes:
 
@@ -219,13 +275,13 @@ Includes:
 
 Purpose:
 
-To understand interactions between different countries, societies, and civilizations.
+To understand interactions between countries, societies, and civilizations.
 
 Many real-world systems extend beyond national borders.
 
----
+------
 
-# 3.10 Arts and Creative Fields
+# 4.11 Arts and Creative Fields
 
 Includes:
 
@@ -241,11 +297,11 @@ Purpose:
 
 To transform knowledge and imagination into meaningful experiences.
 
-Creative fields provide the emotional and cultural connection between knowledge and players.
+Creative fields provide emotional and cultural connections between knowledge and players.
 
----
+------
 
-# 3.11 Ethics and Social Responsibility
+# 4.12 Ethics and Social Responsibility
 
 Includes:
 
@@ -259,74 +315,119 @@ Purpose:
 
 To ensure that exploration and innovation respect human dignity and social responsibility.
 
----
+------
 
-# 4. System Thinking
+# 5. System Thinking
 
-The Wayfarer focuses not only on individual knowledge areas, but also on the relationships between them.
+The Wayfarer focuses not only on individual knowledge areas, but also on relationships between them.
 
-Real-world events are usually complex systems.
+Real-world events are complex systems.
 
-A single decision may create effects across multiple areas.
+A single decision may create effects across multiple areas and different periods of time.
 
 Example:
 
 ## Food Safety Scenario
 
-A simple food safety problem may involve:
-Food Science
+A small food safety issue may initially appear insignificant.
+
+However, through accumulation and interaction, it may develop into a larger social issue.
+
+A possible system relationship:
+
+Individual Decision
 
 ↓
 
-Food Production Technology
+Short-Term Benefit
 
 ↓
 
-Business Management
+Repeated Behavior
 
 ↓
 
-Supply Chain
+Production System Impact
 
 ↓
 
-Consumer Rights
+Supply Chain Influence
 
 ↓
 
-Legal Regulation
+Consumer Risk
 
 ↓
 
-Public Health
+Legal Responsibility
 
 ↓
 
-International Trade
+Public Health Consequences
 
 ↓
 
-Social Impact
+Social Reflection
+
+↓
+
+Historical Change
+
+
+A food safety scenario may involve:
+
+- Food Science;
+- Production Technology;
+- Business Management;
+- Supply Chain;
+- Consumer Rights;
+- Legal Regulation;
+- Public Health;
+- International Trade;
+- Social Impact.
 
 A player may begin with a simple question:
 
 "How should I manage a food company?"
 
-However, through exploration, the player may discover connections between:
+Through exploration, the player discovers connections between:
 
 - science;
+- technology;
 - business;
 - law;
 - society;
-- international cooperation.
+- and civilization.
 
 This is the foundation of systems thinking.
 
----
+------
 
-# 5. Knowledge Transformation Process
+# 6. Knowledge Simulation Layer
+
+The Wayfarer transforms knowledge into dynamic systems.
+
+Knowledge is represented through:
+
+- environmental systems;
+- biological systems;
+- social systems;
+- economic systems;
+- cultural systems;
+- technological systems.
+
+These systems interact continuously within the simulation world.
+
+The goal is not only to store information.
+
+The goal is to allow knowledge to become experience.
+
+------
+
+# 7. Knowledge Transformation Process
 
 The Wayfarer follows a structured process to transform knowledge into interactive experiences.
+
 Academic Research
 
 ↓
@@ -357,16 +458,15 @@ Player Experience
 
 Feedback and Improvement
 
+Each stage requires different expertise and collaboration.
 
-Each stage requires different expertise.
+------
 
----
+# 8. Expert Review
 
-# 6. Expert Review
+Before knowledge becomes part of an interactive experience, appropriate expert review may be introduced.
 
-Before knowledge becomes part of an interactive experience, appropriate experts should review the content.
-
-Expert review may include:
+Review may consider:
 
 - scientific accuracy;
 - technical feasibility;
@@ -374,11 +474,11 @@ Expert review may include:
 - ethical considerations;
 - educational suitability.
 
-The goal is to ensure that experiences are meaningful, responsible, and reliable.
+The goal is to create experiences that are meaningful, responsible, and reliable.
 
----
+------
 
-# 7. Educational Adaptation
+# 9. Educational Adaptation
 
 Knowledge accuracy alone is not enough.
 
@@ -393,8 +493,6 @@ A concept suitable for:
 - professionals;
 
 may require different forms of presentation.
-
-Education specialists help transform complex knowledge into experiences that players can understand and engage with.
 
 The same underlying concept may have multiple levels of interpretation.
 
@@ -412,9 +510,27 @@ An adult may explore:
 
 "How do environmental policies influence economics and international relations?"
 
----
+------
 
-# 8. Multiple Perspectives
+# 10. Player Interaction With Knowledge
+
+Players do not simply receive knowledge.
+
+They discover knowledge through:
+
+- exploration;
+- observation;
+- experimentation;
+- interaction;
+- decision-making.
+
+Different players may understand the same system from different perspectives.
+
+Knowledge becomes meaningful when it connects with experience.
+
+------
+
+# 11. Multiple Perspectives
 
 The Wayfarer does not define exploration as finding one simple answer.
 
@@ -430,9 +546,26 @@ Players should be encouraged to understand:
 - what effects decisions create;
 - how different systems interact.
 
----
+------
 
-# 9. Continuous Evolution
+# 12. Exploration of Unknowns
+
+The Wayfarer recognizes that many questions remain unanswered.
+
+Unknown areas are not treated as failures.
+
+They represent opportunities for:
+
+- exploration;
+- research;
+- imagination;
+- and future discovery.
+
+The boundary between known and unknown is part of human progress.
+
+------
+
+# 13. Continuous Evolution
 
 Human knowledge continues to develop.
 
@@ -450,6 +583,6 @@ The project does not attempt to create a final answer to every question.
 
 Instead, it aims to create a continuously evolving environment where people can explore humanity, civilization, and the connections between knowledge systems.
 
----
+------
 
 # End of Document
